@@ -1,5 +1,6 @@
 🚀 DevOps Internship Task 1
 Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
+
 📌 Project Overview
 
 This project demonstrates how to automate application deployment using a CI/CD pipeline with GitHub Actions and Docker.
@@ -28,6 +29,7 @@ GitHub	Version Control
 GitHub Actions	CI/CD Automation
 Docker	Containerization
 DockerHub	Image Repository
+
 📂 Project Structure
 nodejs-demo-app/
 │
