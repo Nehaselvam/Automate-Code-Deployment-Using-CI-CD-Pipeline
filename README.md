@@ -1,4 +1,5 @@
 🚀 Automate Code Deployment Using CI/CD Pipeline
+
 📌 Project Overview
 
 This project demonstrates how to automate the build and deployment process of a Node.js web application using a CI/CD pipeline with GitHub Actions. The pipeline automatically installs dependencies, builds the application, and runs the deployment process whenever changes are pushed to the main branch.
